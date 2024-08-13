@@ -4,4 +4,4 @@
 
 如果需要联网，需要导入书源插件
 
-<img src="C:\Users\lw208\AppData\Roaming\Typora\typora-user-images\image-20240814003029625.png" alt="image-20240814003029625" style="zoom:67%;" />
+[上手指南 (qq.com)](https://docs.qq.com/doc/DRmlncEFkbElZYmFJ)
